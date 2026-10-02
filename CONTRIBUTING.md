@@ -1,23 +1,4 @@
-<!--
-  ===========================================================
-  COMO USAR ESTE TEMPLATE
-  ===========================================================
-  Substitua os textos entre colchetes [ASSIM] pelas
-  informações do seu projeto. Depois, apague este bloco
-  de comentário (ele não aparece renderizado no GitHub).
-
-  Placeholders usados neste arquivo:
-    [NOME_DO_PROJETO]        -> nome do projeto/repositório
-    [ENTIDADE_1], [ENTIDADE_2], [ENTIDADE_3]
-                              -> nomes das entidades/tabelas do schema
-    [ARQUIVO_ENTIDADE_1] etc -> caminho do arquivo de cada entidade
-    [FERRAMENTA_ORM]         -> nome do ORM/lib usada (ex: Drizzle, Prisma)
-    [FRAMEWORK_BACKEND]      -> framework usado (ex: Express, Fastify)
-    [SERVICO_BANCO]          -> serviço de banco (ex: neon.tech, Supabase)
-  ===========================================================
--->
-
-# 🤝 Acordo de Contribuição e Versionamento — [NOME_DO_PROJETO]
+# 🤝 Acordo de Contribuição e Versionamento — Name-Your-Game
 
 Este documento define as regras de versionamento que todo o código deste projeto deve seguir. O objetivo é simular um ambiente real de desenvolvimento, garantindo segurança e organização.
 
@@ -91,7 +72,7 @@ Como este é um projeto individual, você será o revisor do seu próprio códig
    ```bash
    git push origin feature/schema-[ENTIDADE]
    ```
-5. No GitHub, abra um **Pull Request** dessa branch para a `main`.
+5. (se está **TUDO** FUNCIONANDO) No GitHub, abra um **Pull Request** dessa branch para a `main`.
 6. Revise as alterações e clique em **Merge pull request**.
 7. Volte ao terminal, retorne para a `main`, atualize o código e inicie a próxima feature:
    ```bash
