@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/Criativigamer/Name-Your-Game/issues"
   },
-  "homepage": "https://github.com/Criativigamer/Name-Your-Game#readme"
+  "homepage": "https://github.com/Criativigamer/Name-Your-Game#readme",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0",
+    "dotenv": "^18.0.5",
+    "drizzle-orm": "^0.45.3"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.11"
+  }
 }
